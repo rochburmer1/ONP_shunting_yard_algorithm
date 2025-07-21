@@ -1,0 +1,14 @@
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\bin\Debug\net9.0\ONP_shunting_yard_algorithm.exe
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\bin\Debug\net9.0\ONP_shunting_yard_algorithm.deps.json
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\bin\Debug\net9.0\ONP_shunting_yard_algorithm.runtimeconfig.json
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\bin\Debug\net9.0\ONP_shunting_yard_algorithm.dll
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\bin\Debug\net9.0\ONP_shunting_yard_algorithm.pdb
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\ONP_shunting_yard_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\ONP_shunting_yard_algorithm.AssemblyInfoInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\ONP_shunting_yard_algorithm.AssemblyInfo.cs
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\ONP_shunting_yard_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\ONP_shunting_yard_algorithm.dll
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\refint\ONP_shunting_yard_algorithm.dll
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\ONP_shunting_yard_algorithm.pdb
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\ONP_shunting_yard_algorithm.genruntimeconfig.cache
+C:\Users\pawel\OneDrive\Pulpit\rozwiazania_zadan\ONP_shunting_yard_algorithm\ONP_shunting_yard_algorithm\obj\Debug\net9.0\ref\ONP_shunting_yard_algorithm.dll
