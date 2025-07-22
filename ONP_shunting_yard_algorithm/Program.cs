@@ -1,19 +1,16 @@
-﻿using System;
-using ONP_shunting_yard_algorithm;
+﻿using ONP_shunting_yard_algorithm;
 
 class Program
 {
     static void Main(string[] args)
     {
-        ONP parser = new ONP();
+        Onp parser = new Onp();
 
         string input = parser.UserInput();
         List<string> tokens = parser.Tokenize(input);
         
-        Console.WriteLine("Tokens: ");
-        foreach (var token in tokens)
-        {
-            Console.WriteLine(token);
-        }
+        Console.WriteLine("Onp view of your expression:");
+        List<string> output = parser.ConvertToOpn(tokens);
+        Console.WriteLine(string.Join(" ", output));
     }
 }
