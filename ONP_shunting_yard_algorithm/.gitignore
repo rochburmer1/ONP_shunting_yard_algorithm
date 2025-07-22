@@ -1,0 +1,70 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosf
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+build/
+Build/
+[Ll]og/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+**/project.assets.json
+*.cache
+.nuget/
+!**/*.intellisense.json
+
+# Rider
+.idea/
+
+# Resharper
+*.resharper
+*.resharper.user
+
+# DotPeek
+.dotpeek/
+
+# NCrunch
+_NCrunch_*
+*.ncrunchproj
+
+# StyleCop
+StyleCop.Cache
+
+# Test Results
+TestResults/
+*.trx
+
+# SpecFlow
+SpecFlow/
+
+# Git history files
+.git-rewrite/
+
+# Workstation local files
+*.bak
+*.ncb
+*.opensdf
+*.sdf
+*.vssscc
+*.vspscc
+*.vsscc
+*.sqldb
+*.mfb
+
+# Azure service files
+.publishsettings
+
+# Other
+Thumbs.db
+Desktop.ini
